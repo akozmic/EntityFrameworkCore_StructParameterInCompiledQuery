@@ -1,0 +1,1 @@
+# EntityFrameworkCore_StructParameterInCompiledQuery
